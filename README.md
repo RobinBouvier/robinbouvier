@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Robin 
-I'm an 18 years old student in Clermont-Ferrand (France). 
+I'm an 18 years old student in Clermont-Ferrand (France). <br>
 I love technology and you can find here every project that I find interesting to share.
 
 <div align="center">
